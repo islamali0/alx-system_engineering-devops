@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod ug-rwx hello
+#!/bin/biash
+chmod a-rwx hello
