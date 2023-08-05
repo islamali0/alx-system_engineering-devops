@@ -1,2 +1,2 @@
 #!/bin/biash
-chmod a-rwx hello
+chmod 007 hello
