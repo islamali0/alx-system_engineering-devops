@@ -1,3 +1,2 @@
 #!/bin/bash
-user="id"
-printf "hello ${user}"
+user="id" , printf "hello ${user}"
