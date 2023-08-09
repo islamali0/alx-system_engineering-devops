@@ -1,3 +1,2 @@
 #!/bin/bash
-a=128 value=TRUEKNOWLEDGE
-echo "the sum of this equation will be $a + $value = $((a + value))"
+echo "((128 + $TRUEKNOWLEDGE))"
